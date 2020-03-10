@@ -22,7 +22,8 @@ class CalendlyEmbed extends React.Component {
   render() {
     const { account, eventName } = this.props
     return (
-        <ScrollableAnchor className="content-section bg-primary text-white" id="contact">
+      <ScrollableAnchor>
+        <section className="content-section bg-primary text-white" id="contact">
       <div id="schedule_form">
         <div
           className="calendly-inline-widget"
@@ -30,6 +31,7 @@ class CalendlyEmbed extends React.Component {
           style={{ minWidth: '480px', height: '700px' }}
         />
       </div>
+      </section>
       </ScrollableAnchor>
     )
   }
