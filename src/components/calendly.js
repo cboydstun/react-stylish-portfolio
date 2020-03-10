@@ -28,7 +28,7 @@ class CalendlyEmbed extends React.Component {
         <div
           className="calendly-inline-widget"
           data-url={this.buildCalendlyUrl(account, eventName)}
-          style={{ width: '100%', height: '680px' }}
+          style={{ width: '100%', height: '740px' }}
         />
       </div>
       </section>
