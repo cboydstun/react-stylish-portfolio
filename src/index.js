@@ -27,8 +27,7 @@ class App extends React.Component {
         <ServicesSections />
         <CalloutSection />
         {/* <PortfolioSection /> */}
-        {/* <CallToAction /> */}
-        <CalendlyEmbed account="telecapable" eventName="30min" />
+        <CallToAction />
         <MapSection />
         <FooterSection />
         <ScrollToTop />
