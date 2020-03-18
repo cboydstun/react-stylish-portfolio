@@ -24,7 +24,7 @@ const CallToAction = () => (
         href="https://calendly.com/telecapable/15min"
         className="btn btn-xl btn-light"
       >
-        Book a Consultation
+        Book a Free Consultation
       </a>
     </div>
   </section>
