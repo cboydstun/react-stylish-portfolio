@@ -1,10 +1,12 @@
 import React from 'react';
 import './App.css';
 
+import JsxComponent from './JsxComponent';
+
 function App() {
   return (
     <div>
-      <h1>HELLO WORLD</h1>
+      <JsxComponent />
     </div>
   );
 }
