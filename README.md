@@ -1,76 +1,68 @@
-# [Start Bootstrap - Stylish Portfolio](https://startbootstrap.com/template-overviews/stylish-portfolio/)
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-[Stylish Portfolio](http://startbootstrap.com/template-overviews/stylish-portfolio/) is a responsive, one page portfolio theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). The theme features multiple content sections with an off canvas navigation menu.
+## Available Scripts
 
-## Preview
+In the project directory, you can run:
 
-[![Stylish Portfolio Preview](https://startbootstrap.com/assets/img/templates/stylish-portfolio.jpg)](http://preview.christopherdaniel.me/react-stylish-portfolio/)
+### `yarn start`
 
-**[View Live Preview](http://preview.christopherdaniel.me/react-stylish-portfolio/)**
+Runs the app in the development mode.<br />
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-## Status
+The page will reload if you make edits.<br />
+You will also see any lint errors in the console.
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/cincinnaticodes/react-stylish-portfolio/master/LICENSE)
+### `yarn test`
 
-## Download and Installation
+Launches the test runner in the interactive watch mode.<br />
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/stylish-portfolio/)
-* Clone the repo: `git clone https://github.com/cincinnaticodes/react-stylish-portfolio.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/cincinnaticodes/react-stylish-portfolio)
+### `yarn build`
 
-## Usage
-
-### Basic Usage
-
-### Install
-### `npm start` or `yarn start`
-### Run 
-### `npm start` or `yarn start`
-
-Runs the app in development mode.
-Open http://localhost:3000 to view it in the browser.
-
-The page will automatically reload if you make changes to the code.
-You will see the build errors and lint warnings in the console.
-
-
-### `npm run build` or `yarn build`
-Builds the app for production to the build folder.
+Builds the app for production to the `build` folder.<br />
 It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.
-By default, it also includes a service worker so that your app loads from local cache on future visits.
+The build is minified and the filenames include the hashes.<br />
+Your app is ready to be deployed!
 
-Your app is ready to be deployed.
-## Troubleshooting and Help
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Start Bootstrap has a public Slack channel which is a great place to ask questions about this template and all things related to Start Bootstrap.
+### `yarn eject`
 
-If you have concerns regarding this code directly message CincinnatiCodes!
-**[Click here to join the Slack channel!](https://startbootstrap-slack.herokuapp.com/)**
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-## Bugs and Issues
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/cincinnaticodes/react-stylish-portfolio/issues) here on GitHub.
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-## About
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
+## Learn More
 
-* https://startbootstrap.com
-* https://twitter.com/SBootstrap
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-* http://davidmiller.io
-* https://twitter.com/davidmillerskt
-* https://github.com/davidtmiller
+### Code Splitting
 
-Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
 
-React App built by [CincinnatiCodes](http://twitter.com/cincinnaticodes)
+### Analyzing the Bundle Size
 
-## Copyright and License
+This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 
-Copyright 2013-2018 Blackrock Digital LLC. Code released under the [MIT](https://github.com/cincinnaticodes/react-stylish-portfolio/blob/gh-pages/LICENSE) license.
+### Making a Progressive Web App
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+
+### Advanced Configuration
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+
+### Deployment
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
+
+### `yarn build` fails to minify
+
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
